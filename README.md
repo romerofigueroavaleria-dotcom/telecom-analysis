@@ -1,4 +1,4 @@
-# telecom-analysis - sprint7-final-project
+# Telecom-analysis - Sprint7-final-project
 # Objetivo del proyecto
 
 El objetivo de este proyecto es analizar los datos de clientes y uso de ConnectaTel para identificar patrones de comportamiento, detectar valores atípicos y comprender qué segmentos muestran necesidades diferenciadas. Para ello se trabajó con tres datasets: users, usage y plans, que contienen información de usuarios, registros de llamadas y mensajes, y tipos de planes de las regiones de México y Colombia. Los hallazgos buscan optimizar la oferta comercial y mejorar la experiencia del usuario
@@ -44,7 +44,7 @@ Entra a tu repositorio en GitHub
 Haz clic en Add file → Upload files
 Arrastra el archivo .ipynb y haz clic en Commit changes
 
-## Breve guía de reproducción:
+## 📖 Breve guía de reproducción:
 
 Clona el repositorio o abre el notebook directamente en Colab
 Asegúrate de que los tres datasets estén disponibles en /datasets/:
